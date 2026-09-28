@@ -1,0 +1,29 @@
+{
+  "version": "2026.09.28",
+  "laws": [
+    {
+      "id": "stgb-203",
+      "code": "StGB",
+      "section": "§ 203",
+      "title": "Verletzung von Geheimnissen (Berufsgeheimnis)",
+      "market": "DE",
+      "content": "Wer ein ihm in seiner Eigenschaft als Rechtsanwalt, Steuerberater, Notar, Arzt oder Pflegeperson anvertrautes oder sonst bekannt gewordenes Geheimnis offenbart oder missbraucht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft."
+    },
+    {
+      "id": "asylg-51",
+      "code": "AsylG",
+      "section": "§ 51",
+      "title": "Asylberechtigung",
+      "market": "DE",
+      "content": "Asylberechtigt ist ein Ausländer, der in Deutschland verfolgt wird oder ernsthaft zu fürchten hat, in seinem Herkunftsland verfolgt zu werden, sofern er nicht in einen sicheren Drittstaat einreisen konnte (u. a. wegen Bedrohung von Leib oder Leben wegen seiner Rasse, Religion, Nationalität, politischen Überzeugung oder sexuellen Orientierung)."
+    },
+    {
+      "id": "dsGvo-5",
+      "code": "DSGVO",
+      "section": "Art. 5",
+      "title": "Grundsätze für die Verarbeitung personenbezogener Daten",
+      "market": "both",
+      "content": "Die Verarbeitung personenbezogener Daten muss rechtmäßig, fair und transparent erfolgen; sie darf nur zu bestimmten, klar definierten und rechtmäßigen Zwecken geschehen (Zweckbindung) und datensparsam sowie auf den erforderlichen Umfang beschränkt sein. Integrität und Vertraulichkeit sind durch geeignete technische und organisatorische Maßnahmen zu gewährleisten."
+    }
+  ]
+}
