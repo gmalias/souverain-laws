@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.28",
+  "version": "2026.09.30",
   "laws": [
     {
       "id": "stgb-203",
@@ -7,6 +7,7 @@
       "section": "§ 203",
       "title": "Verletzung von Geheimnissen (Berufsgeheimnis)",
       "market": "DE",
+      "sector": "both",
       "content": "Wer ein ihm in seiner Eigenschaft als Rechtsanwalt, Steuerberater, Notar, Arzt oder Pflegeperson anvertrautes oder sonst bekannt gewordenes Geheimnis offenbart oder missbraucht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft."
     },
     {
@@ -15,6 +16,7 @@
       "section": "§ 51",
       "title": "Asylberechtigung",
       "market": "DE",
+      "sector": "LEGAL",
       "content": "Asylberechtigt ist ein Ausländer, der in Deutschland verfolgt wird oder ernsthaft zu fürchten hat, in seinem Herkunftsland verfolgt zu werden, sofern er nicht in einen sicheren Drittstaat einreisen konnte (u. a. wegen Bedrohung von Leib oder Leben wegen seiner Rasse, Religion, Nationalität, politischen Überzeugung oder sexuellen Orientierung)."
     },
     {
@@ -23,7 +25,26 @@
       "section": "Art. 5",
       "title": "Grundsätze für die Verarbeitung personenbezogener Daten",
       "market": "both",
+      "sector": "both",
       "content": "Die Verarbeitung personenbezogener Daten muss rechtmäßig, fair und transparent erfolgen; sie darf nur zu bestimmten, klar definierten und rechtmäßigen Zwecken geschehen (Zweckbindung) und datensparsam sowie auf den erforderlichen Umfang beschränkt sein. Integrität und Vertraulichkeit sind durch geeignete technische und organisatorische Maßnahmen zu gewährleisten."
+    },
+    {
+      "id": "ceseda-r731-21",
+      "code": "CESEDA",
+      "section": "R. 731-21",
+      "title": "Attribution de la qualité de réfugié par l'OFPRA",
+      "market": "FR",
+      "sector": "LEGAL",
+      "content": "L'Office français de l'asile et du droit d'asile (OFPRA) confère la qualité de réfugié au demandeur se réclamant persécuté au sens de l'article 1er, point A, de la Convention de Genève du 28 septembre 1951, relative au statut des réfugiés, en raison de sa race, de sa religion, de ses opinions politiques, de sa nationalité ou de son appartenance à un certain groupe social."
+    },
+    {
+      "id": "patg-5",
+      "code": "PatG",
+      "section": "§ 5 Abs. 1",
+      "title": "Erfindungsfähigkeit",
+      "market": "DE",
+      "sector": "PATENT",
+      "content": "Eine Erfindung ist erfinderisch, wenn sie dem Fachmann nicht ohne erfinderische Tätigkeit aus dem Stand der Technik hervorgeht. Die Erfindungsfähigkeit ist nur für den technischen Gesamtgehalt der Erfindung und nicht für einzelne Merkmale in ihrer Isolation zu beurteilen."
     }
   ]
 }
