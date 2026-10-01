@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.30",
+  "version": "2026.10.01",
   "laws": [
     {
       "id": "stgb-203",
@@ -45,6 +45,24 @@
       "market": "DE",
       "sector": "PATENT",
       "content": "Eine Erfindung ist erfinderisch, wenn sie dem Fachmann nicht ohne erfinderische Tätigkeit aus dem Stand der Technik hervorgeht. Die Erfindungsfähigkeit ist nur für den technischen Gesamtgehalt der Erfindung und nicht für einzelne Merkmale in ihrer Isolation zu beurteilen."
+    },
+    {
+      "id": "hgb-242",
+      "code": "HGB",
+      "section": "§ 242",
+      "title": "Bilanz (Erstellung und Abschluss des Geschäftsjahres)",
+      "market": "DE",
+      "sector": "ACCOUNTING",
+      "content": "Die Bilanz ist nach dem Geschäftsjahr zu erstellen; sie enthält die Darstellung des Vermögens des Unternehmens zum Abschlussstichtag sowie die Aufstellung der Schulden und des Eigenkapitals (Bilanzsumme). Für die ordnungsmäßige Aufstellung des Jahresabschlusses, also von Bilanz und Gewinn- und Verlustrechnung in Übereinstimmung mit der kaufmännischen Buchführung (GoBD), ist die Geschäftsführung verantwortlich."
+    },
+    {
+      "id": "code-comm-l123-7",
+      "code": "Code de commerce",
+      "section": "L. 123-7",
+      "title": "Conservation des pièces comptables",
+      "market": "FR",
+      "sector": "ACCOUNTING",
+      "content": "Le commerçant doit tenir une comptabilité régulière qui comporte les recettes, dépenses et engagements de l'activité. Cette comptabilité doit permettre de déterminer, sans recourir à des reconstitutions, le chiffre des recettes, la valeur des stocks et l'état de fortune du débiteur. Les pièces justificatives doivent être conservées pendant au moins dix ans à compter de la date à laquelle elles ont été émises ou établies."
     }
   ]
 }
